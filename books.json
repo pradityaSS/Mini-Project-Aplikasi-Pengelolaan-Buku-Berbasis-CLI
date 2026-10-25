@@ -1,0 +1,30 @@
+[
+  {
+    "kode": "KOM001",
+    "judul": "Jujutsu Kaisen",
+    "penulis": "Gege Akutami",
+    "tahun": 2018,
+    "kategori": "KOM"
+  },
+  {
+    "kode": "NOV003",
+    "judul": "Pedang Keadilan",
+    "penulis": "Keigo Higashino",
+    "tahun": 2024,
+    "kategori": "NOV"
+  },
+  {
+    "kode": "NOV002",
+    "judul": "Project Hail Mary",
+    "penulis": "Andy Weir",
+    "tahun": 2021,
+    "kategori": "NOV"
+  },
+  {
+    "kode": "NOV004",
+    "judul": "Bumi Manusia",
+    "penulis": "Pramoedya Ananta Toer",
+    "tahun": 1980,
+    "kategori": "NOV"
+  }
+]
